@@ -71,4 +71,29 @@
 
 # hypotenuse = (pow(opposite,2) + pow(adjacent,2)) **(1/2) 
 
+
 # print (hypotenuse)
+
+
+# length=10
+
+# breadth=50
+
+# area= length * breadth
+
+# print(area)
+
+
+
+# import math
+
+# a=5
+
+# b=12
+
+# c = math.sqrt(a**2 + b**2)
+
+# print(c) 
+
+
+
