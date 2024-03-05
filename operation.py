@@ -64,8 +64,6 @@
 
 # phythagoras theorem
 
-
-
 # opposite = int(input("Enter the height: "))
 # adjacent =int(input("Enter the base: "))
 
@@ -74,6 +72,7 @@
 
 # print (hypotenuse)
 
+# area of a rectangle
 
 # length=10
 
@@ -94,6 +93,56 @@
 # c = math.sqrt(a**2 + b**2)
 
 # print(c) 
+
+
+
+# area of a triangle
+
+# height=20
+
+# base=50
+
+# area= base * height * 1/2
+
+# print(area) 
+
+
+
+# print("Hello World") 
+
+# a_tuple=(1,2,3,4,5,6,7,8,9, 10,"button") 
+
+# print(a_tuple[10]) 
+
+
+# a_list=[1,2,3,4,5,6,7, "get started"] 
+
+
+# a_list[5]= 8
+
+# print(a_list)
+
+
+ 
+# a_set={3,5,7,9,"yaba"} 
+
+# print(a_set) 
+
+
+
+# a_set= {10,20,30,40,50, "lagos"}
+
+# print(a_set)
+
+# a_dictionary={"match":"football","game" :"ps"}
+
+# print(a_dictionary["game"]) 
+
+
+
+
+ 
+    
 
 
 
