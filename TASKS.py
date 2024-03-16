@@ -53,8 +53,8 @@
 
 # create two sets:one with 3 prime numbers and another with 3 composite numbers
 
-a_set1={83, 89, 97}  
-a_set2={60,62, 63}
+# a_set1={83, 89, 97}  
+# a_set2={60,62, 63}
 
 
 # Intersection of the two sets
